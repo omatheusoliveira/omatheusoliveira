@@ -8,7 +8,8 @@ I'm passionate about solving problems and learning. Always open to new
 challenges and ready to face changes.
 
 - 📍 From SP living in Marília
-- 📖   I'm currently doing some Front-end mentor challenges
+- 📖 I'm currently doing some Front-end mentor challenges
+- 📩 matheus-araujo2001@hotmail.com
 
 
 Reach me out 👇🏼
