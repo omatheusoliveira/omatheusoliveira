@@ -7,8 +7,8 @@ I'm from Brazil, that has been working as a developer since 2020. 💻
 I'm passionate about solving problems and learning. Always open to new
 challenges and ready to face changes.
 
-- 📍 From SP living in Marília
-- 📖 I'm currently doing some Front-end mentor challenges
+- 📍 Living in Marília
+- 📖 I'm currently doing some Front-end mentor challenges and Vue.js courses
 - 📩 matheus-araujo2001@hotmail.com
 
 
